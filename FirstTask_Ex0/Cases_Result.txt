@@ -1,0 +1,12 @@
+
+Code Owners,208278556,318916335,  Case,0,  Total waiting time: 237.9897426188186,  average waiting time per call: 23.79897426188186,  unCompleted calls,2,  certificate, -679263056
+Code Owners,208278556,318916335,  Case,1,  Total waiting time: 398.9897426188186,  average waiting time per call: 39.89897426188186,  unCompleted calls,6,  certificate, -1464933712
+Code Owners,208278556,318916335,  Case,2,  Total waiting time: 11507.792822120187,  average waiting time per call: 115.07792822120187,  unCompleted calls,10,  certificate, -3949826684
+Code Owners,208278556,318916335,  Case,3,  Total waiting time: 88443.53828433307,  average waiting time per call: 221.1088457108327,  unCompleted calls,23,  certificate, -7556765543
+Code Owners,208278556,318916335,  Case,4,  Total waiting time: 121451.45536864201,  average waiting time per call: 242.90291073728403,  unCompleted calls,20,  certificate, -8452008480
+Code Owners,208278556,318916335,  Case,5,  Total waiting time: 598924.1211570516,  average waiting time per call: 598.9241211570517,  unCompleted calls,173,  certificate, -745256607014
+Code Owners,208278556,318916335,  Case,6,  Total waiting time: 629273.882096948,  average waiting time per call: 629.273882096948,  unCompleted calls,146,  certificate, -283149634283
+Code Owners,208278556,318916335,  Case,7,  Total waiting time: 964128.121157051,  average waiting time per call: 964.1281211570509,  unCompleted calls,526,  certificate, -26375458354333
+Code Owners,208278556,318916335,  Case,8,  Total waiting time: 944828.8820969487,  average waiting time per call: 944.8288820969486,  unCompleted calls,475,  certificate, -153649566039137
+Code Owners,208278556,318916335,  Case,9,  Total waiting time: 949937.3400743124,  average waiting time per call: 949.9373400743124,  unCompleted calls,343,  certificate, -27380381036361
+
